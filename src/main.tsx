@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Editor from '../editor/Editor';
+import Editor from '../editor';
 import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
